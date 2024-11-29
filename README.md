@@ -1,6 +1,8 @@
+&nbsp;
 <div align="center">
   <img src="./aati_design_shop_wp_theme/screenshot.jpg" alt="Theme Page Screenshot" width="450" />
 </div>
+&nbsp;
 
 # Aati Design Shop
 
@@ -63,7 +65,7 @@ The primary goal was to create a professional, easy-to-share website that served
 
 ### Future Improvements:
 
-(Some things I would liked to do for a site if the company was still active)
+*Some things I would liked to do for a site if the company was still active*
 - Adding multiple pages if the company grows and additional content becomes available
 - Enhancing accessibility to meet at least WCAG AA standards
 - Improving SEO optimization to boost visibility further
