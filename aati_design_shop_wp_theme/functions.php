@@ -9,8 +9,6 @@ function aati_design_shop_assets() {
 
   wp_enqueue_script('aati-design-shop-js', get_theme_file_uri('assets/js/main-script.js'), array(), false, true);
 
-  wp_enqueue_script('fontobserver', get_theme_file_uri('assets/js/fontfaceobserver.js'), array(), false, true);
-
   if( is_singular() && comments_open() && get_option('thread_comments') ) {
     wp_enqueue_script('comment-reply');
 
