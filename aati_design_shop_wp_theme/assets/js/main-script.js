@@ -1,13 +1,3 @@
-// FONT OBSERVER
-
-const font = new FontFaceObserver("Termina", {
-  weight: 400,
-});
-
-font.load().then(function () {
-  document.body.classList.add("font-loaded");
-});
-
 // CURRENT YEAR
 
 document.addEventListener("DOMContentLoaded", function () {
